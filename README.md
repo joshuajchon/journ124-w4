@@ -5,3 +5,4 @@ Something about the data that I found interesting was that a large majority of r
 
 The chart was able to help visualize how the 855 respondants answered the etiquette question and what the majority of people thought. It was clear through the bar chart that "No, not rude at all" was the dominant opinion. This visualization makes the distribution of sentiment easy to grasp at a glance.
 
+![Bar chart showing survey responses about moving to an unsold seat on a plane](mkbCZ-is-it-rude-to-move-to-an-unsold-seat-on-a-plane-.png)
